@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<title>Lista de reproduccion</title>
+</header>
+<body>
+	<h1>Lista Video</h1>
+
+
+	<table border="1">
+		<tr>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+		</tr>
+				<tr>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+			<td>
+				<video src="Lionel Messi &.mp4" controls autoplay loop>
+					Tu navegador no soporta el Video
+				</video>
+				<p>escritores de la libertad</p>
+			</td>
+		</tr>
+		</tr>
+	</table>
+</body>
+</html>ideo
+				</video>
+				<p>escritores de la libertad subtitulada.avi</p>
+			</td>
+		</tr>
+		</tr>
+	</table>
+</body>
+</html>
