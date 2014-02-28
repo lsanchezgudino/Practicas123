@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<title>Lista de reproduccion</title>
+</header>
+<body>
+	<h1>Lista MP3</h1>
+
+
+	<table border="1">
+		<tr>
+			<td>Titulo</td>
+			<td>Artista</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>SlipArray</td>
+			<td>Mr. Scruff</td>
+			<td>
+				<audio src="1.mp3" controls autoplay loop>
+					Tu navegador no soporta el audio
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<td>Sleep Away</td>
+			<td>Bob Acri</td>
+			<td>
+				<audio src="1.mp3" controls autoplay loop>
+					Tu navegador no soporta el audio
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<td>Maid with the Flaxen Hair</td>
+			<td>Richard Stoltzman</td>
+			<td>
+				<audio src="Maid with the Flaxen Hair.mp3" controls>
+					Tu navegador no soporta el audio
+				</audio>
+			</td>
+		<tr>
+			<td>Kalimba</td>
+			<td>Mr. Scruff</td>
+			<td>
+				<audio src="Kalimba.mp3"  controls>
+					Tu navegador no soporta el audio
+				</audio>
+			</td>
+		</tr>
+		<tr>
+		</tr>
+	</table>
+</body>
+</html>
